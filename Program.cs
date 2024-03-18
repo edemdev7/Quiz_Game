@@ -101,6 +101,13 @@ class Program
 
         Question question4 = new Question1choix("Quel langage de programmation est utilisé pour créer des applications Android ?", 
             new List<string> {"A) Java", "B) C#", "C) Python", "D) JavaScript"}, "A", 10);
+        
+         Question question5 = new Question1choix("Qu'est-ce que CSS signifie en programmation web ?", 
+            new List<string> {"A) Creative Style Sheets", "B) Computer Style Sheets", "C) Cascading Style Sheets", "D) Colorful Style Sheets"}, "C", 10);
+
+        Question question6 = new QuestionXChoix("Quels sont les langages de programmation orientés objet ?", 
+            new List<string> {"A) Java", "B) C++", "C) Python", "D) JavaScript"}, "A,B,C", 15);
+
 
         // Création d'une liste de questions
         List<Question> quizQuestions = new List<Question>();
@@ -108,7 +115,9 @@ class Program
         quizQuestions.Add(question2);
         quizQuestions.Add(question3);
         quizQuestions.Add(question4);
-
+        quizQuestions.Add(question5);
+        quizQuestions.Add(question6);
+        
         // Inviter le joueur à jouer
         Console.WriteLine("Bienvenue dans le Quiz Game !");
         Console.Write("Entrez votre nom : ");
