@@ -1,0 +1,15 @@
+C:\Users\Edem\Dotnet\Quiz_Game\bin\Debug\net6.0\Quiz_Game.exe
+C:\Users\Edem\Dotnet\Quiz_Game\bin\Debug\net6.0\Quiz_Game.deps.json
+C:\Users\Edem\Dotnet\Quiz_Game\bin\Debug\net6.0\Quiz_Game.runtimeconfig.json
+C:\Users\Edem\Dotnet\Quiz_Game\bin\Debug\net6.0\Quiz_Game.dll
+C:\Users\Edem\Dotnet\Quiz_Game\bin\Debug\net6.0\Quiz_Game.pdb
+C:\Users\Edem\Dotnet\Quiz_Game\obj\Debug\net6.0\Quiz_Game.csproj.AssemblyReference.cache
+C:\Users\Edem\Dotnet\Quiz_Game\obj\Debug\net6.0\Quiz_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edem\Dotnet\Quiz_Game\obj\Debug\net6.0\Quiz_Game.AssemblyInfoInputs.cache
+C:\Users\Edem\Dotnet\Quiz_Game\obj\Debug\net6.0\Quiz_Game.AssemblyInfo.cs
+C:\Users\Edem\Dotnet\Quiz_Game\obj\Debug\net6.0\Quiz_Game.csproj.CoreCompileInputs.cache
+C:\Users\Edem\Dotnet\Quiz_Game\obj\Debug\net6.0\Quiz_Game.dll
+C:\Users\Edem\Dotnet\Quiz_Game\obj\Debug\net6.0\refint\Quiz_Game.dll
+C:\Users\Edem\Dotnet\Quiz_Game\obj\Debug\net6.0\Quiz_Game.pdb
+C:\Users\Edem\Dotnet\Quiz_Game\obj\Debug\net6.0\Quiz_Game.genruntimeconfig.cache
+C:\Users\Edem\Dotnet\Quiz_Game\obj\Debug\net6.0\ref\Quiz_Game.dll
